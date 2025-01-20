@@ -1,5 +1,9 @@
 ---
-layout: default
+layout: post
+title:  "About Me"
+description: 
+summary: 
+tags: R&D
 ---
 
 닉네임 : 김몽룡(kimmongyong)
