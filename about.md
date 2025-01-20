@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 ---
+
 닉네임 : 김몽룡(kimmongyong)
 
 E-mail : ctf.kimmongyong[at]gmail.com
